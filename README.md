@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 👋 ¡Hola mundo! Soy Joan Merino, Desarrollador Web enfocado en el Frontend 🎨
+# ¡Hola mundo! Soy Joan Merino, Desarrollador Web 👋🏼
 
 🚀 Actualmente desarrollando mi portafolio personal y varios proyectos propios<br>
 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)<br>
