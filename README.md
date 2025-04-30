@@ -46,7 +46,7 @@
 
 - 🖥️ [Portfolio (en construcción)](https://joannmr.dev)
 - 🐙 [GitHub](https://github.com/JoannMr)
-- 💼 [LinkedIn](https://www.linkedin.com/in/joan-merino-serrano-b096712b0) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/joan-merino-serrano-5a646324a) 
 
 ---
 
