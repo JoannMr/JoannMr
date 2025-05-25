@@ -2,7 +2,7 @@
 
 # ¡Hola mundo! Soy Joan Merino, Desarrollador Web 👋🏼
 
-🚀 **¡Mi portafolio personal ya está disponible!** 🔗 [Visítalo aquí](https://joanmrdev.vercel.app/)
+🚀 **¡Mi portafolio personal ya está disponible!** 🔗 [Visítalo aquí](https://joanmrdev.vercel.app/)<br>
 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)<br>
 🎨 Apasionado del **frontend**, el diseño y la creación de interfaces modernas, accesibles y atractivas<br>
 🎯 Siempre aprendiendo y explorando nuevas tecnologías para ofrecer la mejor experiencia visual y de usuario
