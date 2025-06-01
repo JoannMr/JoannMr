@@ -44,7 +44,7 @@
 
 # 📫 ¿Dónde encontrarme?
 
-- 🖥️ [Portfolio]([https://joannmr.dev](https://joanmrdev.vercel.app/))
+- 🖥️ [Portfolio]([(https://joanmrdev.vercel.app/)])
 - 🐙 [GitHub](https://github.com/JoannMr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joan-merino-serrano-5a646324a) 
 
